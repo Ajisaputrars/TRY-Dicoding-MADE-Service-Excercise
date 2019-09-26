@@ -14,7 +14,7 @@ public class OriginService extends Service implements DummyAsyncCallback {
     static final String TAG = OriginService.class.getSimpleName();
 
     public OriginService() {
-        
+
     }
 
     @Override
